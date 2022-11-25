@@ -1,0 +1,4 @@
+La IP pubica es: 
+189.160.148.14
+
+La IP privada es : 
