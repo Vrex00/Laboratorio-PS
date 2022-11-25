@@ -1,0 +1,3 @@
+
+practica 9
+Analisis del registro de windows analizar el registro de usario de win-dows con regripper

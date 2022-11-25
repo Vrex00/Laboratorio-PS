@@ -1,0 +1,4 @@
+PRACTICA 11
+Ejecutable con pyinstaller
+
+NOTA** "Estos ejecutables fueron realizados por parte mia y de mi equipo en la materia de PROGRAMACION DE CIBERSEGURIDAD"
